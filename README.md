@@ -1,7 +1,7 @@
 Hey! Im Eric Brisola 👋
 
 - 💻 Bachelor`s degree in IT at UDESC
-- 📚 I’m currently learning HTML/CSS/Javascript
+- 📚 I’m currently learning React
 - 😄 Pronouns: He/Him
 
 <div>
