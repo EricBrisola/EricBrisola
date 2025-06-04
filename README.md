@@ -1,7 +1,7 @@
 Hey! Im Eric Brisola 👋
 
 - 💻 Bachelor`s degree in IT at UDESC
-- 📚 I’m currently learning Nodejs and Express
+- 📚 I’m currently learning Prisma ORM
 - 😄 Pronouns: He/Him
 
 <div>
