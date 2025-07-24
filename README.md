@@ -1,7 +1,7 @@
 Hey! Im Eric Brisola 👋
 
 - 💻 Bachelor`s degree in IT at UDESC
-- 📚 I’m currently learning Prisma ORM
+- 📚 I’m currently learning NextJS
 - 😄 Pronouns: He/Him
 
 <div>
