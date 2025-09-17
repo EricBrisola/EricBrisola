@@ -1,7 +1,6 @@
 Hey! Im Eric Brisola 👋
 
 - 💻 Bachelor`s degree in IT at UDESC
-- 📚 I’m currently learning NextJS
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=EricBrisola&show_icons=true&theme=tokyonight" height="180em"/>
